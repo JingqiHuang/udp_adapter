@@ -5,7 +5,7 @@ This adapter is to allow multiple SMFs to communicate with UPF
 
 ## Adapter Overview
 
-This adapter sits between SMF and UPF (Arch: SMF <-> UDP Adapter<-> UPF).
+This adapter sits between SMF and UPF (Arch: SMF <-> UDP Adapter <-> UPF).
 
 For SMF
 - It acts as a HTTP client/server to SMF
