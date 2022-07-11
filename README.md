@@ -1,4 +1,4 @@
-# udp_adapter
+# Udp Adapter
 
 
 This adapter is to allow multiple SMFs to communicate with UPF 
