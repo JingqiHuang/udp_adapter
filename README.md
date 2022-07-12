@@ -37,6 +37,7 @@ UDP-SMF Message Structure:
     - UFP Identifier
 
 Incoming Messages from SMF Pod:
+
     - Send PFCP Association ? How ? This has relation with config at UDP Pod.
     
         - Do we want config downloaded to UDP adapter? [No]
